@@ -2,7 +2,7 @@
 
 Identifying candidate driver genes in Acute Myeloid Leukemia (LAML) using machine learning classifiers on publicly available mutation and expression data.
 
-This was my M.S. thesis project at the University of Louisiana at Lafayette (2014–2016), supervised at the Centre for Advanced Computer Studies.
+Built during my M.S. at the University of Louisiana at Lafayette (2014–2016) as part of my work at the Centre for Advanced Computer Studies.
 
 ## Background
 
@@ -40,11 +40,3 @@ The top features for classification were: cross-species conservation score, pred
 ## Files
 
 _(Cleaning up and uploading the original scripts — the code was written during grad school and needs some tidying before it's presentable. Check back soon.)_
-
-## Related work
-
-This project fed into a later position at Indiana University School of Informatics (2019–2020), where I applied similar bioinformatics ML methods to identify recurrent gene fusions in Mantle Cell Lymphoma using PacBio long-read sequencing data. That work contributed to an NIH grant proposal.
-
-## Citation
-
-If you're interested in the thesis or the methods used here, feel free to reach out. The full thesis is available through the UL Lafayette library system.
